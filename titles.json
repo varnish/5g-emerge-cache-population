@@ -1,0 +1,77 @@
+{
+	"crits_linear": {
+        "Title": "crits_linear",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/Live/hls/crits_linear/crits_linear.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+	"5GBroadcast": {
+        "Title": "5GBroadcast",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/5GBroadcast/5GBroadcast.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+	"5g-records": {
+        "Title": "5g-records",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/5g-records/5g-records.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "5g-tours": {
+        "Title": "5g-tours",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/5g-tours/5g-tours.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "SGiovanni": {
+        "Title": "SGiovanni",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/SGiovanni/SGiovanni.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "TorinoJazzFestival": {
+        "Title": "TorinoJazzFestival",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/TorinoJazzFestival/TorinoJazzFestival.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "5G-Emerge": {
+        "Title": "5G-Emerge",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/5G-Emerge/5G-Emerge.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "5G-MAG":{
+        "Title": "5G-MAG",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/5G-MAG/5G-MAG.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "CustomizedAI": {
+        "Title": "CustomizedAI",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/CustomizedAI/CustomizedAI.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "DVB-I": {
+        "Title": "DVB-I",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/DVB-I/DVB-I.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "DynamicMedia": {
+        "Title": "DynamicMedia",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/DynamicMedia/DynamicMedia.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "EBU2023": {
+        "Title": "EBU2023",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/EBU2023/EBU2023.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "HQVideo": {
+        "Title": "HQVideo",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/HQVideo/HQVideo.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "NeoEurovox": {
+        "Title": "NeoEurovox",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/NeoEurovox/NeoEurovox.m3u8",
+        "Resolutions": [4956600, 2261600]
+    },
+    "Peach": {
+        "Title": "Peach",
+        "Url": "https://rai.gcdn.co/5G-EMERGE/VOD/hls/Peach/Peach.m3u8",
+        "Resolutions": [4956600, 2261600]
+    }
+}
